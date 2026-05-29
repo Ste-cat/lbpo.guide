@@ -1,5 +1,6 @@
 export default {
   title: 'LBPOnline Patching Tutorial',
+  base: '/lbpo.guide/',
   description: 'A tutorial on how to set up LBPOnline.',
   themeConfig: {
     sidebar: [
