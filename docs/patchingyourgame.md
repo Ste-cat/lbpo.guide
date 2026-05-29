@@ -25,9 +25,10 @@ In this part of the guide, you will **patch your game.** Follow these steps care
 3. Navigate to `Create`.
 4. Select `My Moon`.
 5. Navigate to an empty slot on your moon, then press Square.
-6. Select the LBPOnline file.
-7. Play the imported level and collect the sticker.
-8. Exit the level and return to your Pod, then use the sticker.
+6. Select ` Import `
+7. Select the LBPOnline file.
+8. Play the imported level and collect the sticker.
+9. Exit the level and return to your Pod, then use the sticker.
 ::: warning
 **Do not use the sticker again after connecting!** Doing so may cause problems.
 :::
